@@ -49,6 +49,5 @@
 </div>
 
 ###
-<br clear="both">
-
+## Check my highlighted personal projects below
 ###
